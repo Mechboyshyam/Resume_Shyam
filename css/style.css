@@ -67,11 +67,23 @@
     text-align: center;
 }
 .datee{
-    margin-left: 305px;
+    margin-left: 290px;
 }
 .last{
-    margin-left: 640px;
+    margin-left: 670px;
 }
 .sign{
-    margin-left: 958px;
+    margin-left: 978px;
+}
+
+.profile{
+    display: flex;
+    margin-left: 350px;
+    margin-bottom: 20px;
+}
+.part-1{
+    margin-left: 00px;
+}
+.part-2{
+    margin-left: 20px;
 }
